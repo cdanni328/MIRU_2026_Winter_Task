@@ -42,7 +42,7 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: '/home/jump328/sim_ws/src/f1tenth_gym_ros/maps/MIRU_2026_winter_task_maps/task_maps/hard_map'
+    map_path: '/home/jump328/sim_ws/src/f1tenth_gym_ros/maps/MIRU_2026_winter_task_maps/task_maps/easy_map'
     ##map_path: '/home/jump328/sim_ws/src/f1tenth_gym_ros/maps/Spielberg_map'
     map_img_ext: '.png'
 
